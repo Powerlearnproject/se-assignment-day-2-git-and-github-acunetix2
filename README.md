@@ -125,6 +125,30 @@ Why Branching Matters?
 
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+- A pull request (PR) allows developers to propose changes before merging into the main branch.
+
+Pull Request Workflow:
+
+1. Push the feature branch to GitHub:
+
+git push origin feature-branch
+
+
+2. Open a pull request on GitHub.
+
+
+3. Discuss and review the changes with team members.
+
+
+4. Merge the pull request once approved.
+
+Benefits:
+
+- Encourages code review before merging.
+
+- Helps track discussions on code changes.
+
+- Ensures code quality and prevents bugs.
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
