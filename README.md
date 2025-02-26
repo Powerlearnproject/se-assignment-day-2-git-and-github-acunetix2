@@ -151,6 +151,20 @@ Benefits:
 - Ensures code quality and prevents bugs.
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+- Forking: Creates a copy of someone else's repository under your account, allowing you to contribute independently
+- Cloning: Downloads a repository to your local machine for development.
+
+
+When to Fork?
+
+- Contributing to open-source projects.
+
+- Creating a personal copy of a public repository.
+
+When to Clone?
+
+- Working on a project where you have direct push access.
+
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
