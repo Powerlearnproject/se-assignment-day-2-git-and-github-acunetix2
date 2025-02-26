@@ -91,6 +91,39 @@ Why Commits Matter?
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
+- Branching allows developers to work on features independently without affecting the main codebase.
+
+Branch Workflow:
+
+1. Create a new branch:
+
+git branch feature-branch
+
+2. Switch to the new branch:
+
+git checkout feature-branch
+
+3. Make changes and commit:
+
+git add .
+git commit -m "Added new feature"
+
+4. Merge changes back into main branch:
+
+git checkout main
+git merge feature-branch
+
+
+
+Why Branching Matters?
+
+- Enables parallel development.
+
+- Reduces the risk of breaking the main code.
+
+- Supports team collaboration.
+
+
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
